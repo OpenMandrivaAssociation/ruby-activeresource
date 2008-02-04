@@ -3,7 +3,7 @@
 %define version 2.0.2
 %define release %mkrel 1
 
-Summary:	Rails way to utilize model objects as REST-based client proxies to remote services.
+Summary:	Rails way to utilize model objects as REST-based client proxies to remote services
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
