@@ -1,6 +1,6 @@
 %define rname activeresource
 %define name ruby-%{rname}
-%define version 2.1.2
+%define version 2.3.3
 %define release %mkrel 1
 
 Summary:	Rails way to utilize model objects as REST-based client proxies to remote services
@@ -8,7 +8,7 @@ Name:		%{name}
 Version:	%{version}
 Release:	%{release}
 URL:		http://www.rubyonrails.org/
-Source0:	%{rname}-%{version}.gem
+Source0:	http://rubyforge.org/frs/download.php/60596/%{rname}-%{version}.gem
 License:	MIT
 Group:		Development/Ruby
 BuildRoot:	%{_tmppath}/%{name}-buildroot
