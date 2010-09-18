@@ -1,7 +1,4 @@
-%define rname activeresource
-%define name ruby-%{rname}
-%define version 2.3.4
-%define release %mkrel 1
+%define	rname	activeresource
 
 Summary:	Rails way to utilize model objects as REST-based client proxies to remote services
 Name:		ruby-%{rname}
