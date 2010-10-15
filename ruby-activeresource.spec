@@ -2,7 +2,7 @@
 
 Summary:	Rails way to utilize model objects as REST-based client proxies to remote services
 Name:		ruby-%{rname}
-Version:	2.3.9
+Version:	2.3.10
 Release:	%mkrel 1
 URL:		http://www.rubyonrails.org/
 Source0:	http://rubygems.org/downloads/%{rname}-%{version}.gem
