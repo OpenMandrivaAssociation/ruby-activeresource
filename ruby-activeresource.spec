@@ -4,7 +4,7 @@ Summary:	Think Active Record for web resources
 Name:		ruby-%{rname}
 Version:	3.2.3
 Release:	2
-URL:		http://www.rubyonrails.org/
+URL:		https://www.rubyonrails.org/
 Source0:	http://rubygems.org/downloads/%{rname}-%{version}.gem
 License:	MIT
 Group:		Development/Ruby
